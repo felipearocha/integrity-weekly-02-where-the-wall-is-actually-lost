@@ -1,0 +1,7 @@
+  5 CMLs, worst 10%: 41.0%
+ 10 CMLs, worst 10%: 65.1%
+ 20 CMLs, worst 10%: 87.8%
+ 30 CMLs, worst 10%: 95.8%
+worst 10%:  29 CMLs for 95%
+worst  5%:  59 CMLs for 95%
+worst  1%: 299 CMLs for 95%
